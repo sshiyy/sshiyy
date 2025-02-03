@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Profile!✨
 
+Hello I'm Shi Ying 
+
 <!--
 **sshiyy/sshiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
